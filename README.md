@@ -312,7 +312,7 @@ Network URL: http://172.xx.xx.xx:8501
 
 # 👨‍💻 Developed By
 
-## Ankit Chowdhary
+## Komal Anand
 
 B.Tech CSE (Data Science & Machine Learning)
 
